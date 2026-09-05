@@ -61,3 +61,4 @@
 
 * [Documentation](greenzones-v2/documentation.md)
 * [Installation](greenzones-v2/installation.md)
+* [Privacy Policy](greenzones-v2/privacy-policy.md)
