@@ -5,4 +5,4 @@
 ## Life System
 
 * [Documentation](life-system/documentation.md)
-* [Install](life-system/install.md)
+* [Installation](life-system/installation.md)
