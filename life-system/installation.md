@@ -1,2 +1,3 @@
-# Install
+# Installation
 
+Releasing Soon!
