@@ -1,10 +1,8 @@
 ---
-description: X1S Docs
+description: X1Studios Documentation For All X1S Resources
 ---
 
 # X1Studios Documentation
-
-## X1Studios Documentation
 
 Welcome to the official **X1Studios Documentation**.
 
