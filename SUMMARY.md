@@ -11,6 +11,7 @@
 
 * [Documentation](advanced-duty-system/documentation.md)
 * [Installation](advanced-duty-system/installation.md)
+* [Discord Bot Setup](advanced-duty-system/discord-bot-setup.md)
 
 ## CarPlay
 
