@@ -2,10 +2,10 @@
 
 * [X1Studios Documentation](README.md)
 
-## Life System - COMING SOON
+## Life System
 
-* [Documentation](life-system-coming-soon/documentation.md)
-* [Installation](life-system-coming-soon/installation.md)
+* [Documentation](life-system/documentation.md)
+* [Installation](life-system/installation.md)
 
 ## Advanced Duty System
 
